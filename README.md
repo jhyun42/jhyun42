@@ -2,7 +2,11 @@
 
 Hello world! 👋
 
-## 😍 Interest
+## 🔭 Portfolio
+
+[![Github Badge](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=Github&logoColor=white&link=https://jhyun42.github.io/jhyun42-portfolio/)](https://jhyun42.github.io/jhyun42-portfolio/)
+
+## 😍 Interest Summary
 
 - AI/ML
 - Acoustic Classification
@@ -19,6 +23,5 @@ Hello world! 👋
 
 ## 😊 Contact
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:foreatu@gmail.com)](mailto:foreatu@gmail.com)
-<a href='https://linkedin.com/in/jhyun42' target='_blank'><img src='https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'/></a>
-<!--[![Github Pages Badge](https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=GithubPages&logoColor=white&link=)]()-->
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:foreatu@gmail.com)](mailto:foreatu@gmail.com)
+<a href='https://linkedin.com/in/jhyun42' target='_blank'><img src='https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white'/></a>
