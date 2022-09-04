@@ -4,7 +4,8 @@ Hello world! 👋
 
 ## 🔭 Portfolio
 
-[![Github Badge](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=Github&logoColor=white&link=https://jhyun42.github.io/jhyun42-portfolio/)](https://jhyun42.github.io/jhyun42-portfolio/)
+<!--[![Github Badge](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=Github&logoColor=white&link=https://jhyun42.github.io/jhyun42-portfolio/)](https://jhyun42.github.io/jhyun42-portfolio/)-->
+(TBD)
 
 ## 😍 Interest Summary
 
