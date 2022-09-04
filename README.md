@@ -7,5 +7,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhyun42&layout=compact&theme=default)
 
 ## 🌐 Websites
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jhyun42
-)](www.linkedin.com/in/jhyun42)
+<a href='https://linkedin.com/in/jhyun42' target='_blank'><img src='https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'/></a>
